@@ -12,3 +12,4 @@ D:\1.RASUL\TelkomUniversity\Semester3\Praktikum\Konstruksi Perangkat Lunak\Wild-
 D:\1.RASUL\TelkomUniversity\Semester3\Praktikum\Konstruksi Perangkat Lunak\Wild-Mane\TP_MODUL6_103022400063\TP_MODUL6_103022400063\obj\Debug\net8.0\TP_MODUL6_103022400063.pdb
 D:\1.RASUL\TelkomUniversity\Semester3\Praktikum\Konstruksi Perangkat Lunak\Wild-Mane\TP_MODUL6_103022400063\TP_MODUL6_103022400063\obj\Debug\net8.0\TP_MODUL6_103022400063.genruntimeconfig.cache
 D:\1.RASUL\TelkomUniversity\Semester3\Praktikum\Konstruksi Perangkat Lunak\Wild-Mane\TP_MODUL6_103022400063\TP_MODUL6_103022400063\obj\Debug\net8.0\ref\TP_MODUL6_103022400063.dll
+D:\1.RASUL\TelkomUniversity\Semester3\Praktikum\Konstruksi Perangkat Lunak\Wild-Mane\TP_MODUL6_103022400063\TP_MODUL6_103022400063\obj\Debug\net8.0\TP_MODUL6_103022400063.sourcelink.json
